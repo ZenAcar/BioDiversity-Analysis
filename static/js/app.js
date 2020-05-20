@@ -81,7 +81,7 @@ async function buildPlots(id) {
         var bar_layout = {
             title: "<b>Top 10 OTUs per Subject </b>",
             width: 500,
-            height: 500,
+            height: 400,
             margin: { t: 100, b: 0 },
         }
 
@@ -142,7 +142,7 @@ async function buildPlots(id) {
             }
         }];
 
-        var gauge_layout = { width: 600, height: 500, margin: { t: 0, b: 0 } };
+        var gauge_layout = { width: 500, height: 500, margin: { t: 0, b: 0 } };
         Plotly.newPlot('gauge', gaugeData, gauge_layout);
     })
 }
