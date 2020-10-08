@@ -18,7 +18,7 @@ An interactive dashboard to explore the Belly Button Biodiversity dataset, which
 
 4. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![hw](Images/hw3.png)
 
 5. Update all of the plots any time that a new sample is selected.
 
