@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Belly Button Biodiversity - Plot.ly 
 
 The live deployed webpage can be found here: [Bio Diversity Dashboard](https://zenacar.github.io/BioDiversity-Analysis/)
 
