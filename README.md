@@ -8,7 +8,7 @@ An interactive dashboard to explore the Belly Button Biodiversity dataset, which
 
 1. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  ![bar Chart](Images/hw01.png)
+![bar Chart](Images/hw01.png)
 
 2. Create a bubble chart that displays each sample.
 
